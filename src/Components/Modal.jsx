@@ -21,7 +21,7 @@ export default function ModalComponent() {
         </Modal.Body>
         <Modal.Footer>
           <Button onClick={handleClose} appearance="primary">
-            Ok
+            Oki
           </Button>
           <Button onClick={handleClose} appearance="subtle">
             Cancel
